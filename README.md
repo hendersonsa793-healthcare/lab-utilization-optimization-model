@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project simulates a laboratory test utilization model to support in-house versus send-out decisions.
+A data-driven model for optimizing in-house vs send-out laboratory testing decisions using Python and Power BI.
 
-Using Python (pandas) and Power BI, I developed a scoring model based on turnaround time (TAT), cost difference, and weekly test volume to identify optimal testing strategies.
+This project simulates laboratory workflows and applies a weighted scoring model based on turnaround time (TAT), cost, and test volume to support operational decision-making.
 
 ---
 
