@@ -1,0 +1,101 @@
+order_date,test_name,department,methodology,tat_hours,weekly_volume,base_cost,send_out,cost_difference,score,final_recommendation
+2025-07-16,C.difficile NAAT,Molecular,NAAT,6.9,100,110,198.0,88.0,17.96,Keep In-House
+2025-12-11,Respiratory Pathogen Panel,Molecular,PCR,6.2,103,220,396.0,176.0,52.28000000000001,Consider In-House Expansion
+2025-04-12,C.difficile NAAT,Molecular,NAAT,5.5,50,110,198.0,88.0,27.400000000000006,Keep In-House
+2025-10-12,Fungal PCR Panel,Molecular,PCR,91.3,6,260,468.0,208.0,118.52,Send Out
+2025-12-05,Fungal PCR Panel,Molecular,PCR,95.2,9,260,468.0,208.0,119.48,Send Out
+2025-02-21,Blood Culture,Microbiology,Culture,72.3,209,55,99.0,44.0,4.719999999999999,Keep In-House
+2025-09-10,C.difficile NAAT,Molecular,NAAT,9.6,57,110,198.0,88.0,27.640000000000008,Keep In-House
+2025-06-27,Respiratory Pathogen Panel,Molecular,PCR,4.7,116,220,396.0,176.0,49.08,Keep In-House
+2025-07-11,Blood Culture,Microbiology,Culture,115.0,266,55,99.0,44.0,10.399999999999999,Keep In-House
+2025-10-25,Respiratory Pathogen Panel,Molecular,PCR,2.8,137,220,396.0,176.0,44.120000000000005,Keep In-House
+2025-10-05,C.difficile NAAT,Molecular,NAAT,4.6,98,110,198.0,88.0,17.440000000000005,Keep In-House
+2025-05-17,Fungal PCR Panel,Molecular,PCR,60.3,9,260,468.0,208.0,105.52000000000001,Send Out
+2025-06-24,Blood Culture,Microbiology,Culture,88.0,268,55,99.0,44.0,-0.7999999999999972,Keep In-House
+2025-06-21,C.difficile NAAT,Molecular,NAAT,7.5,54,110,198.0,88.0,27.400000000000002,Keep In-House
+2025-07-06,Respiratory Pathogen Panel,Molecular,PCR,5.3,130,220,396.0,176.0,46.52000000000001,Keep In-House
+2025-09-21,Respiratory Pathogen Panel,Molecular,PCR,5.8,150,220,396.0,176.0,42.72,Keep In-House
+2025-05-07,C.difficile NAAT,Molecular,NAAT,7.1,94,110,198.0,88.0,19.240000000000006,Keep In-House
+2025-08-23,Respiratory Pathogen Panel,Molecular,PCR,2.2,115,220,396.0,176.0,48.28,Keep In-House
+2025-12-31,Blood Culture,Microbiology,Culture,98.0,192,55,99.0,44.0,18.4,Keep In-House
+2025-12-19,C.difficile NAAT,Molecular,NAAT,2.7,76,110,198.0,88.0,21.08,Keep In-House
+2025-09-23,Respiratory Pathogen Panel,Molecular,PCR,4.7,142,220,396.0,176.0,43.879999999999995,Keep In-House
+2025-10-26,Fungal PCR Panel,Molecular,PCR,96.0,15,260,468.0,208.0,118.60000000000001,Send Out
+2025-07-26,Blood Culture,Microbiology,Culture,46.2,153,55,99.0,44.0,5.479999999999997,Keep In-House
+2025-05-24,Blood Culture,Microbiology,Culture,81.3,239,55,99.0,44.0,2.3200000000000003,Keep In-House
+2025-06-20,Blood Culture,Microbiology,Culture,46.3,203,55,99.0,44.0,-4.479999999999997,Keep In-House
+2025-04-04,Blood Culture,Microbiology,Culture,73.4,163,55,99.0,44.0,14.360000000000007,Keep In-House
+2025-10-08,Respiratory Pathogen Panel,Molecular,PCR,3.1,101,220,396.0,176.0,51.44,Consider In-House Expansion
+2025-06-21,C.difficile NAAT,Molecular,NAAT,4.9,60,110,198.0,88.0,25.160000000000004,Keep In-House
+2025-08-26,C.difficile NAAT,Molecular,NAAT,9.2,46,110,198.0,88.0,29.68,Keep In-House
+2025-03-25,Fungal PCR Panel,Molecular,PCR,73.3,11,260,468.0,208.0,110.32000000000001,Send Out
+2025-08-11,Respiratory Pathogen Panel,Molecular,PCR,4.6,125,220,396.0,176.0,47.24000000000001,Keep In-House
+2025-06-15,Respiratory Pathogen Panel,Molecular,PCR,7.3,97,220,396.0,176.0,53.92,Consider In-House Expansion
+2025-07-04,C.difficile NAAT,Molecular,NAAT,2.7,80,110,198.0,88.0,20.28,Keep In-House
+2025-10-11,Fungal PCR Panel,Molecular,PCR,117.2,14,260,468.0,208.0,127.28000000000002,Send Out
+2025-08-17,Blood Culture,Microbiology,Culture,57.4,285,55,99.0,44.0,-16.439999999999998,Keep In-House
+2025-06-06,Respiratory Pathogen Panel,Molecular,PCR,2.1,89,220,396.0,176.0,53.44000000000001,Consider In-House Expansion
+2025-08-16,Respiratory Pathogen Panel,Molecular,PCR,3.5,145,220,396.0,176.0,42.80000000000001,Keep In-House
+2025-09-06,Respiratory Pathogen Panel,Molecular,PCR,2.9,141,220,396.0,176.0,43.36,Keep In-House
+2025-06-27,C.difficile NAAT,Molecular,NAAT,4.2,94,110,198.0,88.0,18.080000000000002,Keep In-House
+2025-01-06,Fungal PCR Panel,Molecular,PCR,79.0,14,260,468.0,208.0,112.00000000000001,Send Out
+2025-09-06,C.difficile NAAT,Molecular,NAAT,7.0,94,110,198.0,88.0,19.2,Keep In-House
+2025-03-14,Respiratory Pathogen Panel,Molecular,PCR,5.6,111,220,396.0,176.0,50.44,Consider In-House Expansion
+2025-01-14,Fungal PCR Panel,Molecular,PCR,70.8,18,260,468.0,208.0,107.92000000000002,Send Out
+2025-10-11,Fungal PCR Panel,Molecular,PCR,108.4,8,260,468.0,208.0,124.96000000000001,Send Out
+2025-06-26,Fungal PCR Panel,Molecular,PCR,112.7,13,260,468.0,208.0,125.68,Send Out
+2025-07-03,Respiratory Pathogen Panel,Molecular,PCR,3.3,118,220,396.0,176.0,48.12,Keep In-House
+2025-12-25,Respiratory Pathogen Panel,Molecular,PCR,2.7,138,220,396.0,176.0,43.88,Keep In-House
+2025-04-22,Respiratory Pathogen Panel,Molecular,PCR,6.8,83,220,396.0,176.0,56.52,Consider In-House Expansion
+2025-03-24,Respiratory Pathogen Panel,Molecular,PCR,6.1,105,220,396.0,176.0,51.84,Consider In-House Expansion
+2025-02-19,Blood Culture,Microbiology,Culture,119.3,192,55,99.0,44.0,26.919999999999987,Keep In-House
+2025-12-26,Respiratory Pathogen Panel,Molecular,PCR,4.2,142,220,396.0,176.0,43.68000000000001,Keep In-House
+2025-05-22,Respiratory Pathogen Panel,Molecular,PCR,7.0,85,220,396.0,176.0,56.2,Consider In-House Expansion
+2025-05-16,Respiratory Pathogen Panel,Molecular,PCR,7.6,132,220,396.0,176.0,47.040000000000006,Keep In-House
+2025-10-21,Respiratory Pathogen Panel,Molecular,PCR,7.7,89,220,396.0,176.0,55.68000000000001,Consider In-House Expansion
+2025-08-30,Blood Culture,Microbiology,Culture,82.5,159,55,99.0,44.0,18.8,Keep In-House
+2025-04-24,C.difficile NAAT,Molecular,NAAT,9.7,86,110,198.0,88.0,21.880000000000006,Keep In-House
+2025-10-05,Fungal PCR Panel,Molecular,PCR,92.1,13,260,468.0,208.0,117.44,Send Out
+2025-02-10,C.difficile NAAT,Molecular,NAAT,9.9,94,110,198.0,88.0,20.360000000000003,Keep In-House
+2025-05-07,Fungal PCR Panel,Molecular,PCR,64.5,14,260,468.0,208.0,106.2,Send Out
+2025-01-25,Fungal PCR Panel,Molecular,PCR,100.0,9,260,468.0,208.0,121.4,Send Out
+2025-08-08,C.difficile NAAT,Molecular,NAAT,9.1,63,110,198.0,88.0,26.240000000000002,Keep In-House
+2025-01-23,Fungal PCR Panel,Molecular,PCR,118.3,10,260,468.0,208.0,128.52,Send Out
+2025-06-14,Blood Culture,Microbiology,Culture,49.9,249,55,99.0,44.0,-12.240000000000002,Keep In-House
+2025-12-30,Blood Culture,Microbiology,Culture,106.6,262,55,99.0,44.0,7.839999999999996,Keep In-House
+2025-03-05,C.difficile NAAT,Molecular,NAAT,6.9,90,110,198.0,88.0,19.96,Keep In-House
+2025-06-09,Blood Culture,Microbiology,Culture,30.5,265,55,99.0,44.0,-23.199999999999996,Keep In-House
+2025-09-30,Respiratory Pathogen Panel,Molecular,PCR,4.4,117,220,396.0,176.0,48.760000000000005,Keep In-House
+2025-02-20,Respiratory Pathogen Panel,Molecular,PCR,5.2,117,220,396.0,176.0,49.08,Keep In-House
+2025-03-17,Blood Culture,Microbiology,Culture,99.6,173,55,99.0,44.0,22.840000000000003,Keep In-House
+2025-01-14,C.difficile NAAT,Molecular,NAAT,2.8,48,110,198.0,88.0,26.72,Keep In-House
+2025-12-30,Fungal PCR Panel,Molecular,PCR,48.0,19,260,468.0,208.0,98.60000000000001,Consider In-House Expansion
+2025-07-29,Blood Culture,Microbiology,Culture,115.8,208,55,99.0,44.0,22.32,Keep In-House
+2025-01-31,C.difficile NAAT,Molecular,NAAT,5.8,88,110,198.0,88.0,19.92,Keep In-House
+2025-02-11,Blood Culture,Microbiology,Culture,68.6,159,55,99.0,44.0,13.239999999999998,Keep In-House
+2025-06-30,Respiratory Pathogen Panel,Molecular,PCR,3.3,87,220,396.0,176.0,54.31999999999999,Consider In-House Expansion
+2025-12-29,Blood Culture,Microbiology,Culture,86.8,178,55,99.0,44.0,16.72,Keep In-House
+2025-02-22,Fungal PCR Panel,Molecular,PCR,104.7,19,260,468.0,208.0,121.28000000000002,Send Out
+2025-06-16,Blood Culture,Microbiology,Culture,78.8,239,55,99.0,44.0,1.3200000000000003,Keep In-House
+2025-06-28,Blood Culture,Microbiology,Culture,82.4,175,55,99.0,44.0,15.560000000000002,Keep In-House
+2025-04-25,C.difficile NAAT,Molecular,NAAT,9.0,80,110,198.0,88.0,22.800000000000004,Keep In-House
+2025-09-06,Fungal PCR Panel,Molecular,PCR,59.3,15,260,468.0,208.0,103.92,Send Out
+2025-12-28,Respiratory Pathogen Panel,Molecular,PCR,2.1,128,220,396.0,176.0,45.64000000000001,Keep In-House
+2025-09-21,C.difficile NAAT,Molecular,NAAT,4.2,72,110,198.0,88.0,22.480000000000004,Keep In-House
+2025-07-22,Respiratory Pathogen Panel,Molecular,PCR,5.4,92,220,396.0,176.0,54.16,Consider In-House Expansion
+2025-02-17,C.difficile NAAT,Molecular,NAAT,8.8,58,110,198.0,88.0,27.120000000000005,Keep In-House
+2025-09-04,Respiratory Pathogen Panel,Molecular,PCR,6.8,91,220,396.0,176.0,54.92,Consider In-House Expansion
+2025-07-19,C.difficile NAAT,Molecular,NAAT,4.6,72,110,198.0,88.0,22.640000000000008,Keep In-House
+2025-12-17,Fungal PCR Panel,Molecular,PCR,72.1,9,260,468.0,208.0,110.24000000000001,Send Out
+2025-09-11,Respiratory Pathogen Panel,Molecular,PCR,4.2,104,220,396.0,176.0,51.280000000000015,Consider In-House Expansion
+2025-11-15,Fungal PCR Panel,Molecular,PCR,112.9,7,260,468.0,208.0,126.96000000000001,Send Out
+2025-03-01,Fungal PCR Panel,Molecular,PCR,82.8,7,260,468.0,208.0,114.91999999999999,Send Out
+2025-08-29,Blood Culture,Microbiology,Culture,102.7,274,55,99.0,44.0,3.8800000000000026,Keep In-House
+2025-06-21,C.difficile NAAT,Molecular,NAAT,4.4,41,110,198.0,88.0,28.759999999999998,Keep In-House
+2025-06-23,Fungal PCR Panel,Molecular,PCR,118.2,6,260,468.0,208.0,129.28000000000003,Send Out
+2025-05-05,C.difficile NAAT,Molecular,NAAT,5.1,56,110,198.0,88.0,26.04,Keep In-House
+2025-10-09,Fungal PCR Panel,Molecular,PCR,87.8,16,260,468.0,208.0,115.11999999999999,Send Out
+2025-06-15,C.difficile NAAT,Molecular,NAAT,6.5,98,110,198.0,88.0,18.200000000000003,Keep In-House
+2025-10-30,C.difficile NAAT,Molecular,NAAT,4.8,87,110,198.0,88.0,19.720000000000002,Keep In-House
+2025-09-17,C.difficile NAAT,Molecular,NAAT,7.6,71,110,198.0,88.0,24.04,Keep In-House
+2025-11-12,Fungal PCR Panel,Molecular,PCR,48.9,12,260,468.0,208.0,100.36,Send Out
