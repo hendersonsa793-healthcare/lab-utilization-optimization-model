@@ -58,7 +58,7 @@ Score = (Cost × 0.4) + (TAT × 0.4) − (Volume × 0.5)
 
 ## Repository Contents
 
-- `lab_utilization_model_portfolio.ipynb` — data generation and modeling  
+- `lab_utilization_model_clean.ipynb` — data generation and modeling  
 - `lab_utilization_model_clean.csv` — dataset used for dashboarding  
 - `images/` — dashboard screenshots  
 
