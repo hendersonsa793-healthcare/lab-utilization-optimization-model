@@ -63,7 +63,16 @@ Score = (Cost × 0.4) + (TAT × 0.4) − (Volume × 0.5)
 - `images/` — dashboard screenshots  
 
 ---
+---
 
-## Notes
+## ⚠️ Disclaimer
 
-This project uses synthetic data to simulate real-world laboratory workflows and decision-making processes.
+This project uses simulated data and a fictional healthcare organization for demonstration purposes only.
+
+---
+
+## 👤 Author
+
+**Stephen Henderson**  
+Medical Laboratory Scientist (MLS)  
+Interested in Epic Beaker, LIS Systems, and Clinical Data Analytics  
